@@ -1,6 +1,6 @@
 Name:		python-clickgen
 Version:	2.2.5
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/c/clickgen/clickgen-%{version}.tar.gz
 Summary:	The hassle-free cursor building toolbox.
 URL:		https://pypi.org/project/clickgen/
